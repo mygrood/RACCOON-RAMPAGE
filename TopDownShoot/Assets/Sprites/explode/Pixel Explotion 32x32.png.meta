@@ -1,0 +1,6289 @@
+fileFormatVersion: 2
+guid: 349c1b71614380d47b6beead1b320a15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8597076532891508594
+    second: Pixel Explotion 32x32_0
+  - first:
+      213: -8988279080647360819
+    second: Pixel Explotion 32x32_1
+  - first:
+      213: 4673675582126107831
+    second: Pixel Explotion 32x32_2
+  - first:
+      213: -5974990780550656759
+    second: Pixel Explotion 32x32_3
+  - first:
+      213: 9002111080976605347
+    second: Pixel Explotion 32x32_4
+  - first:
+      213: -6595361413748940619
+    second: Pixel Explotion 32x32_5
+  - first:
+      213: -4562448640918820658
+    second: Pixel Explotion 32x32_6
+  - first:
+      213: -6051021348397920599
+    second: Pixel Explotion 32x32_7
+  - first:
+      213: 2978494318554817903
+    second: Pixel Explotion 32x32_8
+  - first:
+      213: 6022381628927477100
+    second: Pixel Explotion 32x32_9
+  - first:
+      213: -3222116644645319379
+    second: Pixel Explotion 32x32_10
+  - first:
+      213: 1439236686316244630
+    second: Pixel Explotion 32x32_11
+  - first:
+      213: -8802155659017029501
+    second: Pixel Explotion 32x32_12
+  - first:
+      213: -1346559038848778285
+    second: Pixel Explotion 32x32_13
+  - first:
+      213: -8119999292118068238
+    second: Pixel Explotion 32x32_14
+  - first:
+      213: -5809717865190790457
+    second: Pixel Explotion 32x32_15
+  - first:
+      213: 4592127826517753221
+    second: Pixel Explotion 32x32_16
+  - first:
+      213: -9179648922590966082
+    second: Pixel Explotion 32x32_17
+  - first:
+      213: -7021988594162676421
+    second: Pixel Explotion 32x32_18
+  - first:
+      213: 8537523493609048497
+    second: Pixel Explotion 32x32_19
+  - first:
+      213: 2259576730664023161
+    second: Pixel Explotion 32x32_20
+  - first:
+      213: 1284051412516198471
+    second: Pixel Explotion 32x32_21
+  - first:
+      213: 6461787970895912103
+    second: Pixel Explotion 32x32_22
+  - first:
+      213: -2787746401087510135
+    second: Pixel Explotion 32x32_23
+  - first:
+      213: -6842923804551967203
+    second: Pixel Explotion 32x32_24
+  - first:
+      213: -2768526552873084561
+    second: Pixel Explotion 32x32_25
+  - first:
+      213: 8951726504672534074
+    second: Pixel Explotion 32x32_26
+  - first:
+      213: 3431918027344071600
+    second: Pixel Explotion 32x32_27
+  - first:
+      213: -6314690539686784623
+    second: Pixel Explotion 32x32_28
+  - first:
+      213: 951727538207091070
+    second: Pixel Explotion 32x32_29
+  - first:
+      213: -7325740751173542551
+    second: Pixel Explotion 32x32_30
+  - first:
+      213: -5116711564239622311
+    second: Pixel Explotion 32x32_31
+  - first:
+      213: -7959489224790740914
+    second: Pixel Explotion 32x32_32
+  - first:
+      213: 2535461435513587905
+    second: Pixel Explotion 32x32_33
+  - first:
+      213: -8028498001085475702
+    second: Pixel Explotion 32x32_34
+  - first:
+      213: 8771503473619383
+    second: Pixel Explotion 32x32_35
+  - first:
+      213: 1281071745766230246
+    second: Pixel Explotion 32x32_36
+  - first:
+      213: -8813810052819379855
+    second: Pixel Explotion 32x32_37
+  - first:
+      213: -3018204036705780101
+    second: Pixel Explotion 32x32_38
+  - first:
+      213: 3215802309575574872
+    second: Pixel Explotion 32x32_39
+  - first:
+      213: 7552028529378923054
+    second: Pixel Explotion 32x32_40
+  - first:
+      213: 4623345057071444893
+    second: Pixel Explotion 32x32_41
+  - first:
+      213: -878095032160654380
+    second: Pixel Explotion 32x32_42
+  - first:
+      213: -2415532986173736258
+    second: Pixel Explotion 32x32_43
+  - first:
+      213: 405718961346526011
+    second: Pixel Explotion 32x32_44
+  - first:
+      213: 6903221231540304465
+    second: Pixel Explotion 32x32_45
+  - first:
+      213: -1558539145655479891
+    second: Pixel Explotion 32x32_46
+  - first:
+      213: 5664362531933466186
+    second: Pixel Explotion 32x32_47
+  - first:
+      213: 5552621646965245441
+    second: Pixel Explotion 32x32_48
+  - first:
+      213: -7614303440455063876
+    second: Pixel Explotion 32x32_49
+  - first:
+      213: -1365350789401184384
+    second: Pixel Explotion 32x32_50
+  - first:
+      213: 8662604689739161556
+    second: Pixel Explotion 32x32_51
+  - first:
+      213: -6705897091756999639
+    second: Pixel Explotion 32x32_52
+  - first:
+      213: 2970689430047999059
+    second: Pixel Explotion 32x32_53
+  - first:
+      213: -5829979177398269671
+    second: Pixel Explotion 32x32_54
+  - first:
+      213: -615865949467494573
+    second: Pixel Explotion 32x32_55
+  - first:
+      213: 5466161818840252880
+    second: Pixel Explotion 32x32_56
+  - first:
+      213: -8124755314915023428
+    second: Pixel Explotion 32x32_57
+  - first:
+      213: 7870308537859293829
+    second: Pixel Explotion 32x32_58
+  - first:
+      213: -6795767979153540392
+    second: Pixel Explotion 32x32_59
+  - first:
+      213: 3602862105413924413
+    second: Pixel Explotion 32x32_60
+  - first:
+      213: -8852280966011190092
+    second: Pixel Explotion 32x32_61
+  - first:
+      213: 3376684805279557703
+    second: Pixel Explotion 32x32_62
+  - first:
+      213: -8817932910063106533
+    second: Pixel Explotion 32x32_63
+  - first:
+      213: -5443140782781763521
+    second: Pixel Explotion 32x32_64
+  - first:
+      213: 7199320653174557311
+    second: Pixel Explotion 32x32_65
+  - first:
+      213: -8240769875631143840
+    second: Pixel Explotion 32x32_66
+  - first:
+      213: -7461444687169503560
+    second: Pixel Explotion 32x32_67
+  - first:
+      213: 5980978076570795206
+    second: Pixel Explotion 32x32_68
+  - first:
+      213: 9159363012881411561
+    second: Pixel Explotion 32x32_69
+  - first:
+      213: -6401278455391268487
+    second: Pixel Explotion 32x32_70
+  - first:
+      213: -4661311919544443327
+    second: Pixel Explotion 32x32_71
+  - first:
+      213: -4527770682816075611
+    second: Pixel Explotion 32x32_72
+  - first:
+      213: 2339333444410323921
+    second: Pixel Explotion 32x32_73
+  - first:
+      213: -1700983139741501062
+    second: Pixel Explotion 32x32_74
+  - first:
+      213: -4239210285227989186
+    second: Pixel Explotion 32x32_75
+  - first:
+      213: 8723908961535350403
+    second: Pixel Explotion 32x32_76
+  - first:
+      213: -4613137101280269290
+    second: Pixel Explotion 32x32_77
+  - first:
+      213: -3421614085109922425
+    second: Pixel Explotion 32x32_78
+  - first:
+      213: 6474172795459485123
+    second: Pixel Explotion 32x32_79
+  - first:
+      213: 849558431704200006
+    second: Pixel Explotion 32x32_80
+  - first:
+      213: -5631560389695584850
+    second: Pixel Explotion 32x32_81
+  - first:
+      213: 8267515508995922006
+    second: Pixel Explotion 32x32_82
+  - first:
+      213: 832002968535103131
+    second: Pixel Explotion 32x32_83
+  - first:
+      213: -617094976613808866
+    second: Pixel Explotion 32x32_84
+  - first:
+      213: 898443248744741551
+    second: Pixel Explotion 32x32_85
+  - first:
+      213: 5177564040820314592
+    second: Pixel Explotion 32x32_86
+  - first:
+      213: 5652980049857583215
+    second: Pixel Explotion 32x32_87
+  - first:
+      213: -6573286405999594891
+    second: Pixel Explotion 32x32_88
+  - first:
+      213: -5362328196124072880
+    second: Pixel Explotion 32x32_89
+  - first:
+      213: 4939485433052549231
+    second: Pixel Explotion 32x32_90
+  - first:
+      213: -2517684802299539381
+    second: Pixel Explotion 32x32_91
+  - first:
+      213: 7199176267941760879
+    second: Pixel Explotion 32x32_92
+  - first:
+      213: 2722300389104206664
+    second: Pixel Explotion 32x32_93
+  - first:
+      213: -2325808603765880797
+    second: Pixel Explotion 32x32_94
+  - first:
+      213: 7817113722991727244
+    second: Pixel Explotion 32x32_95
+  - first:
+      213: -7413919194383802492
+    second: Pixel Explotion 32x32_96
+  - first:
+      213: 6924655239311582856
+    second: Pixel Explotion 32x32_97
+  - first:
+      213: -5410165811740740432
+    second: Pixel Explotion 32x32_98
+  - first:
+      213: -8156754042179197612
+    second: Pixel Explotion 32x32_99
+  - first:
+      213: 5894170460433610731
+    second: Pixel Explotion 32x32_100
+  - first:
+      213: 7423735359237367819
+    second: Pixel Explotion 32x32_101
+  - first:
+      213: -8390467825932426035
+    second: Pixel Explotion 32x32_102
+  - first:
+      213: 2958461349062810696
+    second: Pixel Explotion 32x32_103
+  - first:
+      213: -7951832665769908203
+    second: Pixel Explotion 32x32_104
+  - first:
+      213: 7250925870882894670
+    second: Pixel Explotion 32x32_105
+  - first:
+      213: -5380821497825892617
+    second: Pixel Explotion 32x32_106
+  - first:
+      213: -1085123543796048173
+    second: Pixel Explotion 32x32_107
+  - first:
+      213: -6234535246505310300
+    second: Pixel Explotion 32x32_108
+  - first:
+      213: 7880044761792680750
+    second: Pixel Explotion 32x32_109
+  - first:
+      213: -5301044186746542410
+    second: Pixel Explotion 32x32_110
+  - first:
+      213: 6809708490256977710
+    second: Pixel Explotion 32x32_111
+  - first:
+      213: 3436992301072965026
+    second: Pixel Explotion 32x32_112
+  - first:
+      213: -6030241412913473292
+    second: Pixel Explotion 32x32_113
+  - first:
+      213: 2154246480157971816
+    second: Pixel Explotion 32x32_114
+  - first:
+      213: 8117439651190609628
+    second: Pixel Explotion 32x32_115
+  - first:
+      213: -5355069941500794577
+    second: Pixel Explotion 32x32_116
+  - first:
+      213: -5119212054362176366
+    second: Pixel Explotion 32x32_117
+  - first:
+      213: 2671744359962348000
+    second: Pixel Explotion 32x32_118
+  - first:
+      213: -4979958679139779030
+    second: Pixel Explotion 32x32_119
+  - first:
+      213: 530929308143534050
+    second: Pixel Explotion 32x32_120
+  - first:
+      213: 1901944985010226114
+    second: Pixel Explotion 32x32_121
+  - first:
+      213: -4440240364111191623
+    second: Pixel Explotion 32x32_122
+  - first:
+      213: 9022701008900415599
+    second: Pixel Explotion 32x32_123
+  - first:
+      213: -6434259225148885037
+    second: Pixel Explotion 32x32_124
+  - first:
+      213: 8540021841748624877
+    second: Pixel Explotion 32x32_125
+  - first:
+      213: 712130913064054418
+    second: Pixel Explotion 32x32_126
+  - first:
+      213: -6109794447792300933
+    second: Pixel Explotion 32x32_127
+  - first:
+      213: 1055436312413321263
+    second: Pixel Explotion 32x32_128
+  - first:
+      213: 5639955888056407032
+    second: Pixel Explotion 32x32_129
+  - first:
+      213: -4442332193778765835
+    second: Pixel Explotion 32x32_130
+  - first:
+      213: -4930547576381111699
+    second: Pixel Explotion 32x32_131
+  - first:
+      213: 5648441053747169080
+    second: Pixel Explotion 32x32_132
+  - first:
+      213: 3028455889952588469
+    second: Pixel Explotion 32x32_133
+  - first:
+      213: 4206614855077462771
+    second: Pixel Explotion 32x32_134
+  - first:
+      213: -4188190775634564997
+    second: Pixel Explotion 32x32_135
+  - first:
+      213: 4255524801645576019
+    second: Pixel Explotion 32x32_136
+  - first:
+      213: -7319885013549321943
+    second: Pixel Explotion 32x32_137
+  - first:
+      213: 2798237921096486927
+    second: Pixel Explotion 32x32_138
+  - first:
+      213: -4325843167027438274
+    second: Pixel Explotion 32x32_139
+  - first:
+      213: -6754145553120706323
+    second: Pixel Explotion 32x32_140
+  - first:
+      213: 6200506486691615628
+    second: Pixel Explotion 32x32_141
+  - first:
+      213: 7775037329557101505
+    second: Pixel Explotion 32x32_142
+  - first:
+      213: -299299108856399000
+    second: Pixel Explotion 32x32_143
+  - first:
+      213: -2630422513832128466
+    second: Pixel Explotion 32x32_144
+  - first:
+      213: -3822454621503409612
+    second: Pixel Explotion 32x32_145
+  - first:
+      213: 3379029919647092250
+    second: Pixel Explotion 32x32_146
+  - first:
+      213: -6675727302017074775
+    second: Pixel Explotion 32x32_147
+  - first:
+      213: 3372339921342329808
+    second: Pixel Explotion 32x32_148
+  - first:
+      213: 5658666299433484076
+    second: Pixel Explotion 32x32_149
+  - first:
+      213: -2382348116685829669
+    second: Pixel Explotion 32x32_150
+  - first:
+      213: -1668160596349287271
+    second: Pixel Explotion 32x32_151
+  - first:
+      213: 1472699149521838885
+    second: Pixel Explotion 32x32_152
+  - first:
+      213: -113402987570882349
+    second: Pixel Explotion 32x32_153
+  - first:
+      213: -8109102027168959707
+    second: Pixel Explotion 32x32_154
+  - first:
+      213: -6977005000539242624
+    second: Pixel Explotion 32x32_155
+  - first:
+      213: -7068395374014458552
+    second: Pixel Explotion 32x32_156
+  - first:
+      213: -2650543358733359783
+    second: Pixel Explotion 32x32_157
+  - first:
+      213: -8697871350079201072
+    second: Pixel Explotion 32x32_158
+  - first:
+      213: 4701634051973803694
+    second: Pixel Explotion 32x32_159
+  - first:
+      213: -1495377316949546323
+    second: Pixel Explotion 32x32_160
+  - first:
+      213: 3870940332712089749
+    second: Pixel Explotion 32x32_161
+  - first:
+      213: 8295147250300338566
+    second: Pixel Explotion 32x32_162
+  - first:
+      213: -608360568042967869
+    second: Pixel Explotion 32x32_163
+  - first:
+      213: -3199772611293522379
+    second: Pixel Explotion 32x32_164
+  - first:
+      213: 4147785546618896569
+    second: Pixel Explotion 32x32_165
+  - first:
+      213: -2862948850402751054
+    second: Pixel Explotion 32x32_166
+  - first:
+      213: -2601886287153519684
+    second: Pixel Explotion 32x32_167
+  - first:
+      213: 3640323541714664857
+    second: Pixel Explotion 32x32_168
+  - first:
+      213: -600910001725470158
+    second: Pixel Explotion 32x32_169
+  - first:
+      213: -6857958921667108929
+    second: Pixel Explotion 32x32_170
+  - first:
+      213: -7380818777829604562
+    second: Pixel Explotion 32x32_171
+  - first:
+      213: -1898420224094099124
+    second: Pixel Explotion 32x32_172
+  - first:
+      213: 1223970205435811793
+    second: Pixel Explotion 32x32_173
+  - first:
+      213: 9082299842191496429
+    second: Pixel Explotion 32x32_174
+  - first:
+      213: -6229996818690273452
+    second: Pixel Explotion 32x32_175
+  - first:
+      213: -6329026880802536039
+    second: Pixel Explotion 32x32_176
+  - first:
+      213: -1575929148188247088
+    second: Pixel Explotion 32x32_177
+  - first:
+      213: -6133905312505398632
+    second: Pixel Explotion 32x32_178
+  - first:
+      213: 767726457716065543
+    second: Pixel Explotion 32x32_179
+  - first:
+      213: -5803496023356064882
+    second: Pixel Explotion 32x32_180
+  - first:
+      213: -1744628993812194272
+    second: Pixel Explotion 32x32_181
+  - first:
+      213: 1887167011560435511
+    second: Pixel Explotion 32x32_182
+  - first:
+      213: 303096759112313547
+    second: Pixel Explotion 32x32_183
+  - first:
+      213: 4447805408200750735
+    second: Pixel Explotion 32x32_184
+  - first:
+      213: -6799618493155715972
+    second: Pixel Explotion 32x32_185
+  - first:
+      213: 331896399267552997
+    second: Pixel Explotion 32x32_186
+  - first:
+      213: 8899162827156078504
+    second: Pixel Explotion 32x32_187
+  - first:
+      213: -197932160845278384
+    second: Pixel Explotion 32x32_188
+  - first:
+      213: -7473498128944844008
+    second: Pixel Explotion 32x32_189
+  - first:
+      213: -7265422980550362948
+    second: Pixel Explotion 32x32_190
+  - first:
+      213: 4423794728689051960
+    second: Pixel Explotion 32x32_191
+  - first:
+      213: -1432453669854545018
+    second: Pixel Explotion 32x32_192
+  - first:
+      213: -5589348796200581030
+    second: Pixel Explotion 32x32_193
+  - first:
+      213: -4784285627832054950
+    second: Pixel Explotion 32x32_194
+  - first:
+      213: -8992693635080509277
+    second: Pixel Explotion 32x32_195
+  - first:
+      213: 8012902308555901858
+    second: Pixel Explotion 32x32_196
+  - first:
+      213: -5981796135145668689
+    second: Pixel Explotion 32x32_197
+  - first:
+      213: 58507984845717189
+    second: Pixel Explotion 32x32_198
+  - first:
+      213: 9060460206505254097
+    second: Pixel Explotion 32x32_199
+  - first:
+      213: -555691062980246151
+    second: Pixel Explotion 32x32_200
+  - first:
+      213: 883321858332839678
+    second: Pixel Explotion 32x32_201
+  - first:
+      213: 5575611867018814542
+    second: Pixel Explotion 32x32_202
+  - first:
+      213: 6741829498275134024
+    second: Pixel Explotion 32x32_203
+  - first:
+      213: 3671835930144796289
+    second: Pixel Explotion 32x32_204
+  - first:
+      213: -5475380017832429776
+    second: Pixel Explotion 32x32_205
+  - first:
+      213: 4827115929487426654
+    second: Pixel Explotion 32x32_206
+  - first:
+      213: -3962690268751824529
+    second: Pixel Explotion 32x32_207
+  - first:
+      213: 7061338795405824001
+    second: Pixel Explotion 32x32_208
+  - first:
+      213: -2085404985922836842
+    second: Pixel Explotion 32x32_209
+  - first:
+      213: -3322766963895860831
+    second: Pixel Explotion 32x32_210
+  - first:
+      213: 255000006039197521
+    second: Pixel Explotion 32x32_211
+  - first:
+      213: 1659574208661175843
+    second: Pixel Explotion 32x32_212
+  - first:
+      213: -8491382669342267417
+    second: Pixel Explotion 32x32_213
+  - first:
+      213: 6991849771663563808
+    second: Pixel Explotion 32x32_214
+  - first:
+      213: -2057988958906368751
+    second: Pixel Explotion 32x32_215
+  - first:
+      213: -4629667279801863756
+    second: Pixel Explotion 32x32_216
+  - first:
+      213: -2924343862277239008
+    second: Pixel Explotion 32x32_217
+  - first:
+      213: -1519022254729816693
+    second: Pixel Explotion 32x32_218
+  - first:
+      213: -8344761949559929656
+    second: Pixel Explotion 32x32_219
+  - first:
+      213: -1567505298675791774
+    second: Pixel Explotion 32x32_220
+  - first:
+      213: -1096983913085560379
+    second: Pixel Explotion 32x32_221
+  - first:
+      213: 4950915184768199234
+    second: Pixel Explotion 32x32_222
+  - first:
+      213: -1723995529552203254
+    second: Pixel Explotion 32x32_223
+  - first:
+      213: 7121386408789918553
+    second: Pixel Explotion 32x32_224
+  - first:
+      213: -8865105732337531478
+    second: Pixel Explotion 32x32_225
+  - first:
+      213: 2000621127318215081
+    second: Pixel Explotion 32x32_226
+  - first:
+      213: 5062070410157614865
+    second: Pixel Explotion 32x32_227
+  - first:
+      213: -2880991770456501774
+    second: Pixel Explotion 32x32_228
+  - first:
+      213: 669629927510031535
+    second: Pixel Explotion 32x32_229
+  - first:
+      213: -9169460843996436545
+    second: Pixel Explotion 32x32_230
+  - first:
+      213: -1254093252150670702
+    second: Pixel Explotion 32x32_231
+  - first:
+      213: -4737096794295721147
+    second: Pixel Explotion 32x32_232
+  - first:
+      213: -6739844980165298609
+    second: Pixel Explotion 32x32_233
+  - first:
+      213: 8324938320633349743
+    second: Pixel Explotion 32x32_234
+  - first:
+      213: -4220295565563573164
+    second: Pixel Explotion 32x32_235
+  - first:
+      213: 3788237467383093835
+    second: Pixel Explotion 32x32_236
+  - first:
+      213: 4669487969642016272
+    second: Pixel Explotion 32x32_237
+  - first:
+      213: 5963347810455397731
+    second: Pixel Explotion 32x32_238
+  - first:
+      213: 1656104390151716280
+    second: Pixel Explotion 32x32_239
+  - first:
+      213: 1778662619458184529
+    second: Pixel Explotion 32x32_240
+  - first:
+      213: 7780286290099554632
+    second: Pixel Explotion 32x32_241
+  - first:
+      213: -6624633852270074481
+    second: Pixel Explotion 32x32_242
+  - first:
+      213: 7841365022439313718
+    second: Pixel Explotion 32x32_243
+  - first:
+      213: 7163181078014993320
+    second: Pixel Explotion 32x32_244
+  - first:
+      213: 975440484845842147
+    second: Pixel Explotion 32x32_245
+  - first:
+      213: 8839798230849695618
+    second: Pixel Explotion 32x32_246
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f58d1be83fe4770800000000000000
+      internalID: 8597076532891508594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce70ff4cc7334380800000000000000
+      internalID: -8988279080647360819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 291
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc2b040e2b3cd040800000000000000
+      internalID: 4673675582126107831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 309
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d4b0dba81941da0800000000000000
+      internalID: -5974990780550656759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 291
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0e73a355cedec70800000000000000
+      internalID: 9002111080976605347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 290
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b02d28ecb19874a0800000000000000
+      internalID: -6595361413748940619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 290
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8e11c422deea0c0800000000000000
+      internalID: -4562448640918820658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aecf60b424760ca0800000000000000
+      internalID: -6051021348397920599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 289
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65aafe4dccb55920800000000000000
+      internalID: 2978494318554817903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 292
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c658f0efe2cc39350800000000000000
+      internalID: 6022381628927477100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dca03bbfdb843d0800000000000000
+      internalID: -3222116644645319379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e079b042239f310800000000000000
+      internalID: 1439236686316244630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388789e501678d580800000000000000
+      internalID: -8802155659017029501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 290
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfb35440bf005de0800000000000000
+      internalID: -1346559038848778285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f311e85aa7ff4f80800000000000000
+      internalID: -8119999292118068238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caef00026cbf5fa0800000000000000
+      internalID: -5809717865190790457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df6c69de38abf30800000000000000
+      internalID: 4592127826517753221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 299
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe0b26d0f55b9080800000000000000
+      internalID: -9179648922590966082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dc614e392ec8e90800000000000000
+      internalID: -7021988594162676421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b98e1a32606b7670800000000000000
+      internalID: 8537523493609048497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 256
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b7f59011ab5f10800000000000000
+      internalID: 2259576730664023161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 257
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748dd5cd4fdd1d110800000000000000
+      internalID: 1284051412516198471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac942b6ce1eca950800000000000000
+      internalID: 6461787970895912103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9892e471b6fef49d0800000000000000
+      internalID: -2787746401087510135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 274
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e8d9c1e0d0901a0800000000000000
+      internalID: -6842923804551967203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6953c8b4c73499d0800000000000000
+      internalID: -2768526552873084561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e9475e3dbea3c70800000000000000
+      internalID: 8951726504672534074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 268
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb4a16434f90af20800000000000000
+      internalID: 3431918027344071600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191137b2966bd58a0800000000000000
+      internalID: -6314690539686784623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e796acd4727353d00800000000000000
+      internalID: 951727538207091070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 256
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d92b9a99db55a90800000000000000
+      internalID: -7325740751173542551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 266
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f2d5b11f9cdf8b0800000000000000
+      internalID: -5116711564239622311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e407cc2a8b63a8190800000000000000
+      internalID: -7959489224790740914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_33
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 259
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c84d7dfdb4cf2320800000000000000
+      internalID: 2535461435513587905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_34
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84dd55da9b059090800000000000000
+      internalID: -8028498001085475702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f0bcc2a92f1000800000000000000
+      internalID: 8771503473619383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 227
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e88f2227f747c110800000000000000
+      internalID: 1281071745766230246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1791feb547e0fa580800000000000000
+      internalID: -8813810052819379855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_38
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 223
+        width: 129
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e70847b6f2d16d0800000000000000
+      internalID: -3018204036705780101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855022a9923d0ac20800000000000000
+      internalID: 3215802309575574872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e221f336fe13ec860800000000000000
+      internalID: 7552028529378923054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 212
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933dc875db692040800000000000000
+      internalID: 4623345057071444893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 194
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db6709783160d3f0800000000000000
+      internalID: -878095032160654380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 195
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba30ef0c8d4a7ed0800000000000000
+      internalID: -2415532986173736258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 210
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b33b9ee3761a500800000000000000
+      internalID: 405718961346526011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 203
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af4ef922b2dcf50800000000000000
+      internalID: 6903221231540304465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 202
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da11aae87e4fe5ae0800000000000000
+      internalID: -1558539145655479891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e2de236bbdb9e40800000000000000
+      internalID: 5664362531933466186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106028708ffde0d40800000000000000
+      internalID: 5552621646965245441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 195
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb624abfc5f845690800000000000000
+      internalID: -7614303440455063876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08771f3e0bc4d0de0800000000000000
+      internalID: -1365350789401184384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 203
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df1981a111c73870800000000000000
+      internalID: 8662604689739161556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbf79df1edfe2a0800000000000000
+      internalID: -6705897091756999639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354c4081c420a3920800000000000000
+      internalID: 2970689430047999059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 178
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198043a3d0c71fa0800000000000000
+      internalID: -5829979177398269671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_55
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 157
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3573bb49e210477f0800000000000000
+      internalID: -615865949467494573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c6c89635bbdb40800000000000000
+      internalID: 5466161818840252880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 194
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e58f76121f3f80800000000000000
+      internalID: -8124755314915023428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c3df9ae3f83d60800000000000000
+      internalID: 7870308537859293829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_59
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da349a470590b1a0800000000000000
+      internalID: -6795767979153540392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36b9effeffeff130800000000000000
+      internalID: 3602862105413924413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b483f0ec51662580800000000000000
+      internalID: -8852280966011190092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_62
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 181
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748a521a0f46cde20800000000000000
+      internalID: 3376684805279557703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_63
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 133
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16467adcb860a580800000000000000
+      internalID: -8817932910063106533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 176
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30f9db0c441674b0800000000000000
+      internalID: -5443140782781763521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_65
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 163
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a4a9c8dff19e360800000000000000
+      internalID: 7199320653174557311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 162
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0640447a577e2ad80800000000000000
+      internalID: -8240769875631143840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 163
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be3906e69f937890800000000000000
+      internalID: -7461444687169503560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 167
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb66f3fd3b00350800000000000000
+      internalID: 5980978076570795206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_69
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede5afb1289c1f70800000000000000
+      internalID: 9159363012881411561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_70
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 183
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971da0609271a27a0800000000000000
+      internalID: -6401278455391268487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_71
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e52408181bf4fb0800000000000000
+      internalID: -4661311919544443327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_72
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 184
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e15a9d802a21c0800000000000000
+      internalID: -4527770682816075611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3b4459f5bf67020800000000000000
+      internalID: 2339333444410323921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 176
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7977cab8d4e468e0800000000000000
+      internalID: -1700983139741501062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 173
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37adc4b4bc4b25c0800000000000000
+      internalID: -4239210285227989186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_76
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3865921bafc811970800000000000000
+      internalID: 8723908961535350403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_77
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ca3027f38daffb0800000000000000
+      internalID: -4613137101280269290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_78
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 162
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785cc8a3e1cf380d0800000000000000
+      internalID: -3421614085109922425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3cd71bd1e8d950800000000000000
+      internalID: 6474172795459485123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_80
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 161
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643baa974ec3acb00800000000000000
+      internalID: 849558431704200006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_81
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 160
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c801b9ada8d1b0800000000000000
+      internalID: -5631560389695584850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_82
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 165
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6581cb06d8d1cb270800000000000000
+      internalID: 8267515508995922006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96fa9faa4edb8b00800000000000000
+      internalID: 832002968535103131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1581466363af67f0800000000000000
+      internalID: -617094976613808866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_85
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa3744ef59e77c00800000000000000
+      internalID: 898443248744741551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e15eee20176ad740800000000000000
+      internalID: 5177564040820314592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_87
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 150
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689122976b637e40800000000000000
+      internalID: 5652980049857583215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 142
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727d7b27def6c4a0800000000000000
+      internalID: -6573286405999594891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_89
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 148
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a6fc9aee2595b0800000000000000
+      internalID: -5362328196124072880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_90
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 150
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f605052b4d39c8440800000000000000
+      internalID: 4939485433052549231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405986f2036f0dd0800000000000000
+      internalID: -2517684802299539381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 138
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f471e3cac98e360800000000000000
+      internalID: 7199176267941760879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_93
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 149
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c670d7cd87c520800000000000000
+      internalID: 2722300389104206664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_94
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ccf4c56119bfd0800000000000000
+      internalID: -2325808603765880797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_95
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 150
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82d0c3a387fb7c60800000000000000
+      internalID: 7817113722991727244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 146
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f9d49f5c77c1990800000000000000
+      internalID: -7413919194383802492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_97
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886e6337041591060800000000000000
+      internalID: 6924655239311582856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_98
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4fa37cbda3be4b0800000000000000
+      internalID: -5410165811740740432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_99
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4556dab3a636dce80800000000000000
+      internalID: -8156754042179197612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 141
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7febb1ecc4cc150800000000000000
+      internalID: 5894170460433610731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_101
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 147
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a9d10af7660760800000000000000
+      internalID: 7423735359237367819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_102
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 149
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc424f787f11f8b80800000000000000
+      internalID: -8390467825932426035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_103
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 148
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c9c902ce09e0920800000000000000
+      internalID: 2958461349062810696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_104
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 144
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518ef63325a65a190800000000000000
+      internalID: -7951832665769908203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e433aaa99a670a460800000000000000
+      internalID: 7250925870882894670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_106
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 149
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f66d464b5b7355b0800000000000000
+      internalID: -5380821497825892617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_107
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de9f9ad2edd0f0f0800000000000000
+      internalID: -1085123543796048173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_108
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7066ca93b7a79a0800000000000000
+      internalID: -6234535246505310300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_109
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 143
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2394d8e5fa8b5d60800000000000000
+      internalID: 7880044761792680750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_110
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 145
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a256f568ee66b0800000000000000
+      internalID: -5301044186746542410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_111
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 152
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f8ab1eac1f08e50800000000000000
+      internalID: 6809708490256977710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_112
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 143
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add431b946a2bf20800000000000000
+      internalID: 3436992301072965026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f851717267405ca0800000000000000
+      internalID: -6030241412913473292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_114
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 135
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865937092cb65ed10800000000000000
+      internalID: 2154246480157971816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_115
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 124
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd613eeca50f6a070800000000000000
+      internalID: 8117439651190609628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_116
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 132
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f292975b248fea5b0800000000000000
+      internalID: -5355069941500794577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_117
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 134
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29448d162c7e4f8b0800000000000000
+      internalID: -5119212054362176366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_118
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e985320751f31520800000000000000
+      internalID: 2671744359962348000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_119
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2effbd57f1a3eab0800000000000000
+      internalID: -4979958679139779030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef3dbc846d3e5700800000000000000
+      internalID: 530929308143534050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_121
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 119
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3cedd03e0156a10800000000000000
+      internalID: 1901944985010226114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b12dcb0ae81162c0800000000000000
+      internalID: -4440240364111191623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 133
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60611663c2173d70800000000000000
+      internalID: 9022701008900415599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_124
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7783c235be4b6a0800000000000000
+      internalID: -6434259225148885037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_125
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 134
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5018b3e90448670800000000000000
+      internalID: 8540021841748624877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_126
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 129
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee1cada4ff1e900800000000000000
+      internalID: 712130913064054418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_127
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 129
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c9fa02256a53ba0800000000000000
+      internalID: -6109794447792300933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_128
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 134
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b174fbb9a5ae00800000000000000
+      internalID: 1055436312413321263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_129
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 135
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f399789ff5254e40800000000000000
+      internalID: 5639955888056407032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_130
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 129
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffe88ff76aa952c0800000000000000
+      internalID: -4442332193778765835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_131
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6204a93a1d239bb0800000000000000
+      internalID: -4930547576381111699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_132
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 132
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837455f263b436e40800000000000000
+      internalID: 5648441053747169080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b24092269c370a20800000000000000
+      internalID: 3028455889952588469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_134
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 99
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f206cf4ce5e06a30800000000000000
+      internalID: 4206614855077462771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 114
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78ebb6fdae80e5c0800000000000000
+      internalID: -4188190775634564997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_136
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff2f6a249ae0b30800000000000000
+      internalID: 4255524801645576019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_137
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 114
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ffa2dc5b8a6a90800000000000000
+      internalID: -7319885013549321943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_138
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00dbf3409655d620800000000000000
+      internalID: 2798237921096486927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 118
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d57431f8487f3c0800000000000000
+      internalID: -4325843167027438274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_140
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 116
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0c4f887647442a0800000000000000
+      internalID: -6754145553120706323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_141
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8352c64ccf9c0650800000000000000
+      internalID: 6200506486691615628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_142
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 115
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb17afd14b76eb60800000000000000
+      internalID: 7775037329557101505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_143
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bf507db0da8dbf0800000000000000
+      internalID: -299299108856399000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_144
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2098d509acde7bd0800000000000000
+      internalID: -2630422513832128466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_145
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 111
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4323d3326c9e3fac0800000000000000
+      internalID: -3822454621503409612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_146
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4bfd1fc9b4ee20800000000000000
+      internalID: 3379029919647092250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_147
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a935e9636d0b53a0800000000000000
+      internalID: -6675727302017074775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_148
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 97
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d37a718a45fcce20800000000000000
+      internalID: 3372339921342329808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_149
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 98
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ff438b40f978e40800000000000000
+      internalID: 5658666299433484076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_150
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 70
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ce95920330fed0800000000000000
+      internalID: -2382348116685829669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_151
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 109
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9940c42a6c089d8e0800000000000000
+      internalID: -1668160596349287271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_152
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 111
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e444e214107410800000000000000
+      internalID: 1472699149521838885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_153
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89e59659c1d6ef0800000000000000
+      internalID: -113402987570882349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_154
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 100
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b13f8baea67f80800000000000000
+      internalID: -8109102027168959707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ffbb2fae2bc2f90800000000000000
+      internalID: -6977005000539242624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_156
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8459ad77bd308ed90800000000000000
+      internalID: -7068395374014458552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_157
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9556de0cbd0673bd0800000000000000
+      internalID: -2650543358733359783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_158
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 98
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06b742714fa4780800000000000000
+      internalID: -8697871350079201072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_159
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 86
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae67cb824f8f3140800000000000000
+      internalID: 4701634051973803694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_160
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaab0ac04a5f3be0800000000000000
+      internalID: -1495377316949546323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_161
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598590639b758b530800000000000000
+      internalID: 3870940332712089749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c5bd79784e1370800000000000000
+      internalID: 8295147250300338566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_163
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 99
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cca17e594bae87f0800000000000000
+      internalID: -608360568042967869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_164
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53653dd53cf1893d0800000000000000
+      internalID: -3199772611293522379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_165
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b008be8af4ef8930800000000000000
+      internalID: 4147785546618896569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_166
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 66
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd81a96033c448d0800000000000000
+      internalID: -2862948850402751054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_167
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 68
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3214c053e34ebd0800000000000000
+      internalID: -2601886287153519684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_168
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 67
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99df46359f6058230800000000000000
+      internalID: 3640323541714664857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_169
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a8c25898329a7f0800000000000000
+      internalID: -600910001725470158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_170
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9fcd12b2a3d0a0800000000000000
+      internalID: -6857958921667108929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_171
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e230fe34d60129990800000000000000
+      internalID: -7380818777829604562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_172
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49247c4dd477a5e0800000000000000
+      internalID: -1898420224094099124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_173
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d9aeba6a6cf010800000000000000
+      internalID: 1223970205435811793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_174
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4196d169fca0e70800000000000000
+      internalID: 9082299842191496429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_175
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f072eb6ea9a89a0800000000000000
+      internalID: -6229996818690273452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_176
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995cdd3a597ca28a0800000000000000
+      internalID: -6329026880802536039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_177
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 78
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db3e031acc212ae0800000000000000
+      internalID: -1575929148188247088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_178
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89afb3afd9dffdaa0800000000000000
+      internalID: -6133905312505398632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_179
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 71
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c5dc452387aa00800000000000000
+      internalID: 767726457716065543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_180
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b38707d17d57fa0800000000000000
+      internalID: -5803496023356064882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_181
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c1afe6c25d9c7e0800000000000000
+      internalID: -1744628993812194272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_182
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f25ebf560903a10800000000000000
+      internalID: 1887167011560435511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_183
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 29
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca267385e0d43400800000000000000
+      internalID: 303096759112313547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_184
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86fdd90477c9bd30800000000000000
+      internalID: 4447805408200750735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_185
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 69
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74d643a107e2a1a0800000000000000
+      internalID: -6799618493155715972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_186
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed29444022b9400800000000000000
+      internalID: 331896399267552997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_187
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afbff6017d208b70800000000000000
+      internalID: 8899162827156078504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_188
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05311379fbdc04df0800000000000000
+      internalID: -197932160845278384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_189
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81332ba4c0dc84890800000000000000
+      internalID: -7473498128944844008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_190
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8f5550b480c2b90800000000000000
+      internalID: -7265422980550362948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_191
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a1c21ed9746d30800000000000000
+      internalID: 4423794728689051960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_192
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b7d1b0af6ee1ce0800000000000000
+      internalID: -1432453669854545018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_193
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5805bc22e4ae62b0800000000000000
+      internalID: -5589348796200581030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_194
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b4019d19dca9db0800000000000000
+      internalID: -4784285627832054950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_195
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82c13c8c8833380800000000000000
+      internalID: -8992693635080509277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_196
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 53
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abc169023c833f60800000000000000
+      internalID: 8012902308555901858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_197
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 34
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf76d5ab146cfca0800000000000000
+      internalID: -5981796135145668689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_198
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceb045c3bcdfc000800000000000000
+      internalID: 58507984845717189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_199
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 34
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcde4ead883dbd70800000000000000
+      internalID: 9060460206505254097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_200
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 34
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97504322ce9c948f0800000000000000
+      internalID: -555691062980246151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_201
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 35
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe4444dc80324c00800000000000000
+      internalID: 883321858332839678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_202
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 34
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44eb13c37d806d40800000000000000
+      internalID: 5575611867018814542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_203
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 51
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a70fc753acf8d50800000000000000
+      internalID: 6741829498275134024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_204
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eebc1035bf4f230800000000000000
+      internalID: 3671835930144796289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_205
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03773d232ea8304b0800000000000000
+      internalID: -5475380017832429776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_206
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 46
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e544abadc5c5df240800000000000000
+      internalID: 4827115929487426654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_207
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6976202232b109c0800000000000000
+      internalID: -3962690268751824529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_208
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 46
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10059dac83aeef160800000000000000
+      internalID: 7061338795405824001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_209
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ad39d6372f03e0800000000000000
+      internalID: -2085404985922836842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_210
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a185951d0923e1d0800000000000000
+      internalID: -3322766963895860831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_211
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15750b98721f98300800000000000000
+      internalID: 255000006039197521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_212
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e36a133fdf70710800000000000000
+      internalID: 1659574208661175843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e722f5937c882a80800000000000000
+      internalID: -8491382669342267417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_214
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c17eaa25a080160800000000000000
+      internalID: 6991849771663563808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_215
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db5b012fd8073e0800000000000000
+      internalID: -2057988958906368751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_216
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 38
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13927532e10cfb0800000000000000
+      internalID: -4629667279801863756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_217
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 34
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f0fd740c4aa67d0800000000000000
+      internalID: -2924343862277239008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_218
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b859ae4be495beae0800000000000000
+      internalID: -1519022254729816693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_219
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c8452833713c80800000000000000
+      internalID: -8344761949559929656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_220
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26803e06c3a1f3ae0800000000000000
+      internalID: -1567505298675791774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_221
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9973071fab6c0f0800000000000000
+      internalID: -1096983913085560379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_222
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a2235212f25b440800000000000000
+      internalID: 4950915184768199234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_223
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02fda233332318e0800000000000000
+      internalID: -1723995529552203254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_224
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 20
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953c734453f34d260800000000000000
+      internalID: 7121386408789918553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_225
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 31
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa50eb74e41d8f480800000000000000
+      internalID: -8865105732337531478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_226
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 23
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a991f7c052a3cb10800000000000000
+      internalID: 2000621127318215081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_227
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e571d736104640800000000000000
+      internalID: 5062070410157614865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_228
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1dd19bf39a408d0800000000000000
+      internalID: -2880991770456501774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb4380fd00b4900800000000000000
+      internalID: 669629927510031535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_230
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb72dbbb1f78fb080800000000000000
+      internalID: -9169460843996436545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_231
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a4856e4d0989ee0800000000000000
+      internalID: -1254093252150670702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_232
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ac555093724eb0800000000000000
+      internalID: -4737096794295721147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_233
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f463c0423b24772a0800000000000000
+      internalID: -6739844980165298609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_234
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 12
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6643629b4f188370800000000000000
+      internalID: 8324938320633349743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_235
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4d6f0b8f7e65c0800000000000000
+      internalID: -4220295565563573164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_236
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad138d7e5829430800000000000000
+      internalID: 3788237467383093835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_237
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ee871819a5dc040800000000000000
+      internalID: 4669487969642016272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_238
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 3
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3652c4a0d3112c250800000000000000
+      internalID: 5963347810455397731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_239
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 20
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd35fd1b2aabf610800000000000000
+      internalID: 1656104390151716280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_240
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 17
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15522188a341fa810800000000000000
+      internalID: 1778662619458184529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_241
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 14
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849c93cb82129fb60800000000000000
+      internalID: 7780286290099554632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_242
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852a643c929014a0800000000000000
+      internalID: -6624633852270074481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_243
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6311bac41ff12dc60800000000000000
+      internalID: 7841365022439313718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_244
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a322e00d3bb86360800000000000000
+      internalID: 7163181078014993320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_245
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee65cee3f5798d00800000000000000
+      internalID: 975440484845842147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Explotion 32x32_246
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2cebd7a54daa70800000000000000
+      internalID: 8839798230849695618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixel Explotion 32x32_0: 8597076532891508594
+      Pixel Explotion 32x32_1: -8988279080647360819
+      Pixel Explotion 32x32_10: -3222116644645319379
+      Pixel Explotion 32x32_100: 5894170460433610731
+      Pixel Explotion 32x32_101: 7423735359237367819
+      Pixel Explotion 32x32_102: -8390467825932426035
+      Pixel Explotion 32x32_103: 2958461349062810696
+      Pixel Explotion 32x32_104: -7951832665769908203
+      Pixel Explotion 32x32_105: 7250925870882894670
+      Pixel Explotion 32x32_106: -5380821497825892617
+      Pixel Explotion 32x32_107: -1085123543796048173
+      Pixel Explotion 32x32_108: -6234535246505310300
+      Pixel Explotion 32x32_109: 7880044761792680750
+      Pixel Explotion 32x32_11: 1439236686316244630
+      Pixel Explotion 32x32_110: -5301044186746542410
+      Pixel Explotion 32x32_111: 6809708490256977710
+      Pixel Explotion 32x32_112: 3436992301072965026
+      Pixel Explotion 32x32_113: -6030241412913473292
+      Pixel Explotion 32x32_114: 2154246480157971816
+      Pixel Explotion 32x32_115: 8117439651190609628
+      Pixel Explotion 32x32_116: -5355069941500794577
+      Pixel Explotion 32x32_117: -5119212054362176366
+      Pixel Explotion 32x32_118: 2671744359962348000
+      Pixel Explotion 32x32_119: -4979958679139779030
+      Pixel Explotion 32x32_12: -8802155659017029501
+      Pixel Explotion 32x32_120: 530929308143534050
+      Pixel Explotion 32x32_121: 1901944985010226114
+      Pixel Explotion 32x32_122: -4440240364111191623
+      Pixel Explotion 32x32_123: 9022701008900415599
+      Pixel Explotion 32x32_124: -6434259225148885037
+      Pixel Explotion 32x32_125: 8540021841748624877
+      Pixel Explotion 32x32_126: 712130913064054418
+      Pixel Explotion 32x32_127: -6109794447792300933
+      Pixel Explotion 32x32_128: 1055436312413321263
+      Pixel Explotion 32x32_129: 5639955888056407032
+      Pixel Explotion 32x32_13: -1346559038848778285
+      Pixel Explotion 32x32_130: -4442332193778765835
+      Pixel Explotion 32x32_131: -4930547576381111699
+      Pixel Explotion 32x32_132: 5648441053747169080
+      Pixel Explotion 32x32_133: 3028455889952588469
+      Pixel Explotion 32x32_134: 4206614855077462771
+      Pixel Explotion 32x32_135: -4188190775634564997
+      Pixel Explotion 32x32_136: 4255524801645576019
+      Pixel Explotion 32x32_137: -7319885013549321943
+      Pixel Explotion 32x32_138: 2798237921096486927
+      Pixel Explotion 32x32_139: -4325843167027438274
+      Pixel Explotion 32x32_14: -8119999292118068238
+      Pixel Explotion 32x32_140: -6754145553120706323
+      Pixel Explotion 32x32_141: 6200506486691615628
+      Pixel Explotion 32x32_142: 7775037329557101505
+      Pixel Explotion 32x32_143: -299299108856399000
+      Pixel Explotion 32x32_144: -2630422513832128466
+      Pixel Explotion 32x32_145: -3822454621503409612
+      Pixel Explotion 32x32_146: 3379029919647092250
+      Pixel Explotion 32x32_147: -6675727302017074775
+      Pixel Explotion 32x32_148: 3372339921342329808
+      Pixel Explotion 32x32_149: 5658666299433484076
+      Pixel Explotion 32x32_15: -5809717865190790457
+      Pixel Explotion 32x32_150: -2382348116685829669
+      Pixel Explotion 32x32_151: -1668160596349287271
+      Pixel Explotion 32x32_152: 1472699149521838885
+      Pixel Explotion 32x32_153: -113402987570882349
+      Pixel Explotion 32x32_154: -8109102027168959707
+      Pixel Explotion 32x32_155: -6977005000539242624
+      Pixel Explotion 32x32_156: -7068395374014458552
+      Pixel Explotion 32x32_157: -2650543358733359783
+      Pixel Explotion 32x32_158: -8697871350079201072
+      Pixel Explotion 32x32_159: 4701634051973803694
+      Pixel Explotion 32x32_16: 4592127826517753221
+      Pixel Explotion 32x32_160: -1495377316949546323
+      Pixel Explotion 32x32_161: 3870940332712089749
+      Pixel Explotion 32x32_162: 8295147250300338566
+      Pixel Explotion 32x32_163: -608360568042967869
+      Pixel Explotion 32x32_164: -3199772611293522379
+      Pixel Explotion 32x32_165: 4147785546618896569
+      Pixel Explotion 32x32_166: -2862948850402751054
+      Pixel Explotion 32x32_167: -2601886287153519684
+      Pixel Explotion 32x32_168: 3640323541714664857
+      Pixel Explotion 32x32_169: -600910001725470158
+      Pixel Explotion 32x32_17: -9179648922590966082
+      Pixel Explotion 32x32_170: -6857958921667108929
+      Pixel Explotion 32x32_171: -7380818777829604562
+      Pixel Explotion 32x32_172: -1898420224094099124
+      Pixel Explotion 32x32_173: 1223970205435811793
+      Pixel Explotion 32x32_174: 9082299842191496429
+      Pixel Explotion 32x32_175: -6229996818690273452
+      Pixel Explotion 32x32_176: -6329026880802536039
+      Pixel Explotion 32x32_177: -1575929148188247088
+      Pixel Explotion 32x32_178: -6133905312505398632
+      Pixel Explotion 32x32_179: 767726457716065543
+      Pixel Explotion 32x32_18: -7021988594162676421
+      Pixel Explotion 32x32_180: -5803496023356064882
+      Pixel Explotion 32x32_181: -1744628993812194272
+      Pixel Explotion 32x32_182: 1887167011560435511
+      Pixel Explotion 32x32_183: 303096759112313547
+      Pixel Explotion 32x32_184: 4447805408200750735
+      Pixel Explotion 32x32_185: -6799618493155715972
+      Pixel Explotion 32x32_186: 331896399267552997
+      Pixel Explotion 32x32_187: 8899162827156078504
+      Pixel Explotion 32x32_188: -197932160845278384
+      Pixel Explotion 32x32_189: -7473498128944844008
+      Pixel Explotion 32x32_19: 8537523493609048497
+      Pixel Explotion 32x32_190: -7265422980550362948
+      Pixel Explotion 32x32_191: 4423794728689051960
+      Pixel Explotion 32x32_192: -1432453669854545018
+      Pixel Explotion 32x32_193: -5589348796200581030
+      Pixel Explotion 32x32_194: -4784285627832054950
+      Pixel Explotion 32x32_195: -8992693635080509277
+      Pixel Explotion 32x32_196: 8012902308555901858
+      Pixel Explotion 32x32_197: -5981796135145668689
+      Pixel Explotion 32x32_198: 58507984845717189
+      Pixel Explotion 32x32_199: 9060460206505254097
+      Pixel Explotion 32x32_2: 4673675582126107831
+      Pixel Explotion 32x32_20: 2259576730664023161
+      Pixel Explotion 32x32_200: -555691062980246151
+      Pixel Explotion 32x32_201: 883321858332839678
+      Pixel Explotion 32x32_202: 5575611867018814542
+      Pixel Explotion 32x32_203: 6741829498275134024
+      Pixel Explotion 32x32_204: 3671835930144796289
+      Pixel Explotion 32x32_205: -5475380017832429776
+      Pixel Explotion 32x32_206: 4827115929487426654
+      Pixel Explotion 32x32_207: -3962690268751824529
+      Pixel Explotion 32x32_208: 7061338795405824001
+      Pixel Explotion 32x32_209: -2085404985922836842
+      Pixel Explotion 32x32_21: 1284051412516198471
+      Pixel Explotion 32x32_210: -3322766963895860831
+      Pixel Explotion 32x32_211: 255000006039197521
+      Pixel Explotion 32x32_212: 1659574208661175843
+      Pixel Explotion 32x32_213: -8491382669342267417
+      Pixel Explotion 32x32_214: 6991849771663563808
+      Pixel Explotion 32x32_215: -2057988958906368751
+      Pixel Explotion 32x32_216: -4629667279801863756
+      Pixel Explotion 32x32_217: -2924343862277239008
+      Pixel Explotion 32x32_218: -1519022254729816693
+      Pixel Explotion 32x32_219: -8344761949559929656
+      Pixel Explotion 32x32_22: 6461787970895912103
+      Pixel Explotion 32x32_220: -1567505298675791774
+      Pixel Explotion 32x32_221: -1096983913085560379
+      Pixel Explotion 32x32_222: 4950915184768199234
+      Pixel Explotion 32x32_223: -1723995529552203254
+      Pixel Explotion 32x32_224: 7121386408789918553
+      Pixel Explotion 32x32_225: -8865105732337531478
+      Pixel Explotion 32x32_226: 2000621127318215081
+      Pixel Explotion 32x32_227: 5062070410157614865
+      Pixel Explotion 32x32_228: -2880991770456501774
+      Pixel Explotion 32x32_229: 669629927510031535
+      Pixel Explotion 32x32_23: -2787746401087510135
+      Pixel Explotion 32x32_230: -9169460843996436545
+      Pixel Explotion 32x32_231: -1254093252150670702
+      Pixel Explotion 32x32_232: -4737096794295721147
+      Pixel Explotion 32x32_233: -6739844980165298609
+      Pixel Explotion 32x32_234: 8324938320633349743
+      Pixel Explotion 32x32_235: -4220295565563573164
+      Pixel Explotion 32x32_236: 3788237467383093835
+      Pixel Explotion 32x32_237: 4669487969642016272
+      Pixel Explotion 32x32_238: 5963347810455397731
+      Pixel Explotion 32x32_239: 1656104390151716280
+      Pixel Explotion 32x32_24: -6842923804551967203
+      Pixel Explotion 32x32_240: 1778662619458184529
+      Pixel Explotion 32x32_241: 7780286290099554632
+      Pixel Explotion 32x32_242: -6624633852270074481
+      Pixel Explotion 32x32_243: 7841365022439313718
+      Pixel Explotion 32x32_244: 7163181078014993320
+      Pixel Explotion 32x32_245: 975440484845842147
+      Pixel Explotion 32x32_246: 8839798230849695618
+      Pixel Explotion 32x32_25: -2768526552873084561
+      Pixel Explotion 32x32_26: 8951726504672534074
+      Pixel Explotion 32x32_27: 3431918027344071600
+      Pixel Explotion 32x32_28: -6314690539686784623
+      Pixel Explotion 32x32_29: 951727538207091070
+      Pixel Explotion 32x32_3: -5974990780550656759
+      Pixel Explotion 32x32_30: -7325740751173542551
+      Pixel Explotion 32x32_31: -5116711564239622311
+      Pixel Explotion 32x32_32: -7959489224790740914
+      Pixel Explotion 32x32_33: 2535461435513587905
+      Pixel Explotion 32x32_34: -8028498001085475702
+      Pixel Explotion 32x32_35: 8771503473619383
+      Pixel Explotion 32x32_36: 1281071745766230246
+      Pixel Explotion 32x32_37: -8813810052819379855
+      Pixel Explotion 32x32_38: -3018204036705780101
+      Pixel Explotion 32x32_39: 3215802309575574872
+      Pixel Explotion 32x32_4: 9002111080976605347
+      Pixel Explotion 32x32_40: 7552028529378923054
+      Pixel Explotion 32x32_41: 4623345057071444893
+      Pixel Explotion 32x32_42: -878095032160654380
+      Pixel Explotion 32x32_43: -2415532986173736258
+      Pixel Explotion 32x32_44: 405718961346526011
+      Pixel Explotion 32x32_45: 6903221231540304465
+      Pixel Explotion 32x32_46: -1558539145655479891
+      Pixel Explotion 32x32_47: 5664362531933466186
+      Pixel Explotion 32x32_48: 5552621646965245441
+      Pixel Explotion 32x32_49: -7614303440455063876
+      Pixel Explotion 32x32_5: -6595361413748940619
+      Pixel Explotion 32x32_50: -1365350789401184384
+      Pixel Explotion 32x32_51: 8662604689739161556
+      Pixel Explotion 32x32_52: -6705897091756999639
+      Pixel Explotion 32x32_53: 2970689430047999059
+      Pixel Explotion 32x32_54: -5829979177398269671
+      Pixel Explotion 32x32_55: -615865949467494573
+      Pixel Explotion 32x32_56: 5466161818840252880
+      Pixel Explotion 32x32_57: -8124755314915023428
+      Pixel Explotion 32x32_58: 7870308537859293829
+      Pixel Explotion 32x32_59: -6795767979153540392
+      Pixel Explotion 32x32_6: -4562448640918820658
+      Pixel Explotion 32x32_60: 3602862105413924413
+      Pixel Explotion 32x32_61: -8852280966011190092
+      Pixel Explotion 32x32_62: 3376684805279557703
+      Pixel Explotion 32x32_63: -8817932910063106533
+      Pixel Explotion 32x32_64: -5443140782781763521
+      Pixel Explotion 32x32_65: 7199320653174557311
+      Pixel Explotion 32x32_66: -8240769875631143840
+      Pixel Explotion 32x32_67: -7461444687169503560
+      Pixel Explotion 32x32_68: 5980978076570795206
+      Pixel Explotion 32x32_69: 9159363012881411561
+      Pixel Explotion 32x32_7: -6051021348397920599
+      Pixel Explotion 32x32_70: -6401278455391268487
+      Pixel Explotion 32x32_71: -4661311919544443327
+      Pixel Explotion 32x32_72: -4527770682816075611
+      Pixel Explotion 32x32_73: 2339333444410323921
+      Pixel Explotion 32x32_74: -1700983139741501062
+      Pixel Explotion 32x32_75: -4239210285227989186
+      Pixel Explotion 32x32_76: 8723908961535350403
+      Pixel Explotion 32x32_77: -4613137101280269290
+      Pixel Explotion 32x32_78: -3421614085109922425
+      Pixel Explotion 32x32_79: 6474172795459485123
+      Pixel Explotion 32x32_8: 2978494318554817903
+      Pixel Explotion 32x32_80: 849558431704200006
+      Pixel Explotion 32x32_81: -5631560389695584850
+      Pixel Explotion 32x32_82: 8267515508995922006
+      Pixel Explotion 32x32_83: 832002968535103131
+      Pixel Explotion 32x32_84: -617094976613808866
+      Pixel Explotion 32x32_85: 898443248744741551
+      Pixel Explotion 32x32_86: 5177564040820314592
+      Pixel Explotion 32x32_87: 5652980049857583215
+      Pixel Explotion 32x32_88: -6573286405999594891
+      Pixel Explotion 32x32_89: -5362328196124072880
+      Pixel Explotion 32x32_9: 6022381628927477100
+      Pixel Explotion 32x32_90: 4939485433052549231
+      Pixel Explotion 32x32_91: -2517684802299539381
+      Pixel Explotion 32x32_92: 7199176267941760879
+      Pixel Explotion 32x32_93: 2722300389104206664
+      Pixel Explotion 32x32_94: -2325808603765880797
+      Pixel Explotion 32x32_95: 7817113722991727244
+      Pixel Explotion 32x32_96: -7413919194383802492
+      Pixel Explotion 32x32_97: 6924655239311582856
+      Pixel Explotion 32x32_98: -5410165811740740432
+      Pixel Explotion 32x32_99: -8156754042179197612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
