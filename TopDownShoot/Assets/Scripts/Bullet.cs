@@ -32,6 +32,10 @@ public class Bullet : MonoBehaviour
         {
             Vector2 position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
             transform.position = position;
+            // Поворот пули в направлении движения
+            Vector2 direction = targetPosition - (Vector2)transform.position;
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+            transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle));
 
             if ((Vector2)transform.position == targetPosition)
             {
@@ -63,17 +67,9 @@ public class Bullet : MonoBehaviour
     void Explode()
     {
         GameObject explosion = Instantiate(explosionPrefab, transform.position, Quaternion.identity);
-        explosion.transform.localScale = new Vector3(radius, radius, 1);
-        
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, radius);
-        foreach (Collider2D collider in colliders)
-        {
-            if (collider.gameObject.tag == "enemy")
-            {
-                EnemyController enemy = collider.gameObject.GetComponent<EnemyController>();
-                enemy.TakeDamage(damage);
-            }
-        }
+        explosion.GetComponent<Explosion>().radius = radius;
+        explosion.GetComponent<Explosion>().damage = damage;
+
         Destroy(gameObject); 
     }
 

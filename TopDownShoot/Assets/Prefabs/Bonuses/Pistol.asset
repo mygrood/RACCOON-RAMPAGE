@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 972612cd431150e41b769c68d9cbb240, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  weaponName: pistol
+  damage: 3
+  fireRate: 2
+  bulletPrefab: {fileID: 222812144100490364, guid: 9b4eed9c1f8547a4cb0e2330045bb6f6, type: 3}
+  sound: {fileID: 8300000, guid: 40e0ad19a99c2804681688b550ee9b62, type: 3}
+  sprite: {fileID: -4854829337826818713, guid: a891ee64c56789642b34c57d4bbad58f, type: 3}
+  shotBulletsCount: 0
+  shotAngle: 0
+  shotRange: 0
+  grenadeRadius: 0

@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    public AudioSource mainSound;
     public GameObject deathPanel; //экран смерти
     public GameObject pausePanel; //экран паузы
 
@@ -56,7 +57,7 @@ public class GameManager : MonoBehaviour
             currentPoints.SetActive(true);
             TMP_Text textP = currentPoints.GetComponent<TMP_Text>();
             textP.text = $"{player.score}";
-            float health= (float)player.HP / (float)player.MaxHP;
+            float health= (float)player.HP / (float)player.playerStats.HP;
             healthBar.fillAmount = health;
             Debug.Log(healthBar.fillAmount);
             weaponBar.sprite = weapon.GetComponent<SpriteRenderer>().sprite;
@@ -111,5 +112,8 @@ public class GameManager : MonoBehaviour
         }
     }
 
-
+    public void TurnSound()
+    {
+        mainSound.mute = !mainSound.mute;
+    }
 }

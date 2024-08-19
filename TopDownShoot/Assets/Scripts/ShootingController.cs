@@ -21,10 +21,13 @@ public class ShootingController : MonoBehaviour
     public Sprite spriteShotgun;
     
     private SpriteRenderer spriteRenderer;
+    private AudioSource audioSource;
 
     private void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
+        audioSource.clip = currentWeapon.sound;
         DisplayWeapon();
     }
 
@@ -41,22 +44,9 @@ public class ShootingController : MonoBehaviour
 
 
     public void DisplayWeapon()
-    {
-        switch (currentWeapon.weaponName)
-        {
-            case "pistol":
-                spriteRenderer.sprite = spritePistol;
-                break;
-            case "gun":
-                spriteRenderer.sprite = spriteGun;
-                break;
-            case "shotgun":
-                spriteRenderer.sprite = spriteShotgun;
-                break;
-            case "grenade":
-                spriteRenderer.sprite = spriteGrenade;
-                break;
-        }
+    {       
+        spriteRenderer.sprite = currentWeapon.sprite;
+        audioSource.clip = currentWeapon.sound;
     }
 
     //поворот и стрельба
@@ -91,6 +81,7 @@ public class ShootingController : MonoBehaviour
     //тип выстрела в зависимости от оружия
     void Shoot()
     {
+        audioSource.Play();
         switch (currentWeapon.weaponName)
         {
             case "pistol":

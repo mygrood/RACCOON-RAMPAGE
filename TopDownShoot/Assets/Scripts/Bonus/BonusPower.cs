@@ -8,7 +8,7 @@ public class BonusPower : MonoBehaviour
 
     void Start()
     {
-        Destroy(gameObject, 5); //уничтожение через 5 секунд
+        Destroy(gameObject, 20); //уничтожение через 5 секунд
     }
 
     void OnTriggerEnter2D(Collider2D collision)

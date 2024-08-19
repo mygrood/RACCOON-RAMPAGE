@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 972612cd431150e41b769c68d9cbb240, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  weaponName: shotgun
+  damage: 2
+  fireRate: 1.5
+  bulletPrefab: {fileID: 222812144100490364, guid: 058d6156c8802d34b9ba338dfd2a86b1, type: 3}
+  sound: {fileID: 8300000, guid: 4140c9c6597b9444b8b97ecb66741f9d, type: 3}
+  sprite: {fileID: 1275589539659018210, guid: 32f142d0c401828479f15bd7ccfd160b, type: 3}
+  shotBulletsCount: 5
+  shotAngle: 10
+  shotRange: 7
+  grenadeRadius: 0

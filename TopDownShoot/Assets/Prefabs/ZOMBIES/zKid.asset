@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 760c15f83e60d314e900d5453870f2f9, type: 3}
   m_Name: zKid
   m_EditorClassIdentifier: 
-  HP: 10
+  HP: 5
   Damage: 1
   Speed: 8
   Points: 12

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class SpawnEnemies : MonoBehaviour
 {
@@ -18,7 +19,7 @@ public class SpawnEnemies : MonoBehaviour
 
     void Start()
     {
-        mapBounds = GetComponent<SpriteRenderer>().bounds;//размеры игровой карты
+        mapBounds = GetComponent<Tilemap>().localBounds;//размеры игровой карты
         currentSpawnInterval = startSpawnInterval;
         StartCoroutine(SpawnEnemy()); //спавн противника
     }

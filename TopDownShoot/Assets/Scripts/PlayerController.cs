@@ -6,11 +6,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Animator anim;
-
-    private float baseSpeed;
-    public float moveSpeed = 4f;
-    public int HP = 100;
-    public int MaxHP = 100;
+    public PlayerStats playerStats;
+       
+    public float moveSpeed;
+    public float HP = 100;    
 
     private bool isShield = false; //усиление щит
 
@@ -25,7 +24,8 @@ public class PlayerController : MonoBehaviour
 
     private void Start()
     {
-        baseSpeed = moveSpeed;
+        moveSpeed = playerStats.moveSpeed;
+        HP = playerStats.HP;        
         anim = GetComponentInChildren<Animator>();
     }
     void FixedUpdate()
@@ -66,7 +66,7 @@ public class PlayerController : MonoBehaviour
     {
         moveSpeed *= 1.5f;
         yield return new WaitForSeconds(10.0f);
-        moveSpeed = baseSpeed;
+        moveSpeed = playerStats.moveSpeed;
     }
 
     //неу€звимость на 10 сек

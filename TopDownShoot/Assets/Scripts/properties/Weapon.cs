@@ -8,6 +8,8 @@ public class Weapon : ScriptableObject
     public float fireRate;
 
     public GameObject bulletPrefab;
+    public AudioClip sound;
+    public Sprite sprite;
 
     //дробовик
     public int shotBulletsCount;
