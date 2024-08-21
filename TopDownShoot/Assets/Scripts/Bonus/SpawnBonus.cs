@@ -41,7 +41,7 @@ public class SpawnBonus : MonoBehaviour
         GameObject bonusPrefab;
         do
         {
-            bonusPrefab = weaponBonusPrefabs[Random.Range(0, weaponBonusPrefabs.Length - 1)];
+            bonusPrefab = weaponBonusPrefabs[Random.Range(0, weaponBonusPrefabs.Length-1)];
         }
         while (bonusPrefab.GetComponent<BonusWeapon>().weapon == currentWeapon);
 
